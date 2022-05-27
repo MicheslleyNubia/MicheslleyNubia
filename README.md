@@ -19,3 +19,5 @@
 
 
 Apaixonada por tecnologia, descobrindo o mundo de dados, visualização e programação.
+
+![Snake animation](https://github.com/MicheslleyNubia/MicheslleyNubia/blob/output/github-contribution-grid-snake.svg)
