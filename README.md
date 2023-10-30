@@ -9,6 +9,7 @@
 ![Micheslley Nubia GitHub stats](https://github-readme-stats.vercel.app/api?username=MicheslleyNubia&show_icons=true&theme=radical)
 
 ### Tecnologias em desenvolvimento profissional 💻
+
 <div style="display: inline_block"><br>
   <img align = "center" alt="html5" src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
   <img align = "center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
@@ -17,8 +18,6 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
 
 Apaixonada por tecnologia, visualização e desenvolvimento web.
 </div>
