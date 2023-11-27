@@ -1,5 +1,5 @@
 ### Olá! Eu sou a Micheslley Núbia 🖐🏾
-- Analista de dados e Engenheira de dados 📊
+- Analista de dados Júnior e Engenheira de dados Júnior 📊
 - Estudando programação, visualisação de dados e desenvolvimento web
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheslleynubiapereiradasilva/)
