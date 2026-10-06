@@ -1,29 +1,28 @@
-## Olá! Eu sou a Micheslley Núbia 🖐🏾
+# Olá! Eu sou a Micheslley Núbia 🖐🏾
+
+## 💼 Atuação
 
 Profissional de Dados com experiência em:
 
-✅ Data Governance
+- Data Governance
+- Data Lineage
+- Data Management
+- Analytics
+- Business Intelligence
 
-✅ Data Lineage
+## 🚀 Atualmente estudando
 
-✅ Data Management
+- SQL
+- Power BI
+- Databricks
+- Cloud Analytics
+- IA aplicada a Dados
 
-✅ Analytics
+## 🎯 Objetivo Profissional
 
-✅ Business Intelligence
+Atuar na interseção entre Dados, Analytics e Business Intelligence, transformando informações em valor para o negócio por meio de análises, visualizações e soluções baseadas em dados.
 
-## Atualmente estou aprofundando meus conhecimentos em:
+## 🔗 Conecte-se comigo
 
-📊 SQL
-
-📊 Power BI
-
-📊 Databricks
-
-📊 Cloud Analytics
-
-🤖 IA aplicada a Dados
-
-## Objetivo
-
-Desenvolver soluções que transformem dados em informações confiáveis para tomada de decisão.
+- LinkedIn: https://www.linkedin.com/in/micheslleynubiapereiradasilva/
+- E-mail: micheslley.nubia@gmail.com
